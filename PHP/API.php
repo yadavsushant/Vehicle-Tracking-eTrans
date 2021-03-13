@@ -2,8 +2,8 @@
 function get_etrans_tracking()
 {
 	$url="https://etranssolutions.com/eTransRestApi/reports/location";
-	$username='jhulelal';
-	$password='23hstc0Xa9ODTW9f85';
+	$username=XXXXX;
+	$password=XXXXX;
 	$content_type='application/json';
 
 	$curl = curl_init();
